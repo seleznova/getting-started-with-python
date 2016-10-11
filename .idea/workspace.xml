@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90ff40d-822b-4b7d-9e2b-9e0b5134dd75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment_try_except.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment_try_except.py" afterPath="$PROJECT_DIR$/assignment_try_except.py" />
     </list>
     <ignored path="getting-started-with-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="assignment_try_except.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment_try_except.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -73,12 +73,13 @@
         <option value="$PROJECT_DIR$/assignment_2.2.py" />
         <option value="$PROJECT_DIR$/tryexept.py" />
         <option value="$PROJECT_DIR$/assignment_rewrite.py" />
+        <option value="$PROJECT_DIR$/assignment_try_except.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="217" />
+    <option name="x" value="707" />
+    <option name="y" value="151" />
     <option name="width" value="893" />
     <option name="height" value="465" />
   </component>
@@ -139,7 +140,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assignment_rewrite">
+  <component name="RunManager" selected="Python.assignment_try_except">
     <configuration default="false" name="animated-programming-story" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,6 +188,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="getting-started-with-python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_rewrite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="assignment_try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="getting-started-with-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_try_except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -325,16 +343,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.animated-programming-story" />
       <item index="1" class="java.lang.String" itemvalue="Python.tryexept" />
       <item index="2" class="java.lang.String" itemvalue="Python.assignment_rewrite" />
+      <item index="3" class="java.lang.String" itemvalue="Python.assignment_try_except" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.assignment_rewrite" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tryexept" />
-        <item index="2" class="java.lang.String" itemvalue="Python.animated-programming-story" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.assignment_try_except" />
+        <item index="1" class="java.lang.String" itemvalue="Python.assignment_rewrite" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tryexept" />
+        <item index="3" class="java.lang.String" itemvalue="Python.animated-programming-story" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +372,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="217" width="893" height="465" extended-state="0" />
+    <frame x="707" y="151" width="893" height="465" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24860023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -496,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment_try_except.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="133">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding />
         </state>
       </provider>

@@ -1,9 +1,6 @@
-# The code below almost works
 
-name = raw_input("Enter your name")
-print "Hello %s" % name
+# Exercise
 
-# Exercise 2.3
 
 # This first line is provided for you
 
@@ -13,12 +10,12 @@ hrs = raw_input("Enter Hours:")
 
 rate = raw_input("Enter Rate:")
 
-hrs = float(hrs)
-rate = float(rate)M
-
-if hrs <= 40:
+try:
+    hrs = float(hrs)
+    rate = float(rate)
     gross_pay = hrs * rate
-else:
-    gross_pay = (hrs * rate) + ((hrs - 40) * (rate * 0.5))
+    print gross_pay
 
-print gross_pay
+except:
+    print "Error, please enter numeric input"
+
