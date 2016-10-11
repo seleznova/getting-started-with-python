@@ -14,8 +14,11 @@ hrs = raw_input("Enter Hours:")
 rate = raw_input("Enter Rate:")
 
 hrs = float(hrs)
-rate = float(rate)
+rate = float(rate)M
 
-gross_pay = hrs * rate
+if hrs <= 40:
+    gross_pay = hrs * rate
+else:
+    gross_pay = (hrs * rate) + ((hrs - 40) * (rate * 0.5))
 
 print gross_pay
