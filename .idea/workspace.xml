@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90ff40d-822b-4b7d-9e2b-9e0b5134dd75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/own_functions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/own_functions.py" afterPath="$PROJECT_DIR$/own_functions.py" />
     </list>
     <ignored path="getting-started-with-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="own_functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/own_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="55">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -126,24 +125,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stored-steps">
-    <configuration default="false" name="assignment_try_except" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="getting-started-with-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment_try_except.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.own_functions">
     <configuration default="false" name="assignment-week3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +190,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="getting-started-with-python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stored-steps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="own_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="getting-started-with-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/own_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -347,19 +346,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.assignment_try_except" />
-      <item index="1" class="java.lang.String" itemvalue="Python.assignment-week3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.assignment_week3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.starting_loops" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stored-steps" />
+      <item index="0" class="java.lang.String" itemvalue="Python.assignment-week3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.assignment_week3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.starting_loops" />
+      <item index="3" class="java.lang.String" itemvalue="Python.stored-steps" />
+      <item index="4" class="java.lang.String" itemvalue="Python.own_functions" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.stored-steps" />
-        <item index="1" class="java.lang.String" itemvalue="Python.starting_loops" />
-        <item index="2" class="java.lang.String" itemvalue="Python.assignment_week3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.assignment-week3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.assignment_try_except" />
+        <item index="0" class="java.lang.String" itemvalue="Python.own_functions" />
+        <item index="1" class="java.lang.String" itemvalue="Python.stored-steps" />
+        <item index="2" class="java.lang.String" itemvalue="Python.starting_loops" />
+        <item index="3" class="java.lang.String" itemvalue="Python.assignment_week3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.assignment-week3" />
       </list>
     </recent_temporary>
   </component>
@@ -657,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/own_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="55">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
